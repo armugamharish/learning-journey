@@ -1,7 +1,7 @@
 # learning-journey
 
 ## Learning goals
-### Developer Environment Setup & Git Basics
+### Developer Environment Setup & Git Basics ---> COMPLETED on 10/18/26
 ### Java Fundamentals
 ### Object-Oriented Programming in Java
 ### Java Collections Framework
