@@ -8,3 +8,8 @@
 ### Exception Handling & File I/O
 ### JDBC & Database Fundamentals
 ### Spring Boot Fundamentals
+### Spring Data JPA & Hibernate
+### Spring Security Basics
+### Testing in Java
+### Microservices Basics
+### Final Project & Interview Prep
